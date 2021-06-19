@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="*************** GENERAL **************" tvg-logo="http://ap.xtr1.com/logo/EUROPE/FRANCE/FRANCE.png" group-title="FR | TNT GENERAL",*************** GENERAL **************
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/28137.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/TF1.png" group-title="FR | TNT GENERAL",TF1
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27808.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1 FHD" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/TF1.png" group-title="FR | TNT GENERAL",TF1 FHD
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/56662.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TF1 Series Films" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/TFISERIEFILMS.png" group-title="FR | TNT GENERAL",TF1 Series Films
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/FRANCE2HD.png" group-title="FR | TNT GENERAL",FRANCE 2
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27809.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 2 FHD" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/FRANCE2HD.png" group-title="FR | TNT GENERAL",FRANCE 2 FHD
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/56664.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 3" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/FRANCE3HD.png" group-title="FR | TNT GENERAL",FRANCE 3
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 4" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/FRANCE4HD.png" group-title="FR | TNT GENERAL",FRANCE 4
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 5" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/FRANCE5HD.png" group-title="FR | TNT GENERAL",FRANCE 5
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE O" tvg-logo="http://logo.xtr1.com/logo/EUROPE/FRANCE/FRANCEO.png" group-title="FR | TNT GENERAL",FRANCE O
+http://xtr1.com:80/live/Iptvtree200telg/fUfRHGxBm8/27814.m3u8
